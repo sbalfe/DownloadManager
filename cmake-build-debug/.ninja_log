@@ -1,0 +1,24 @@
+# ninja log v5
+1	941	1662309167497990351	src/CMakeFiles/downloadTest.dir/CurlRequest.cpp.o	4373ad77c6f37023
+1	733	1662302888319756707	src/CMakeFiles/downloadTest.dir/ThreadPool.cpp.o	3559c277c936e9d3
+0	16	1662300638397774569	build.ninja	77170f836fd67289
+1	438	1662304434708901302	src/CMakeFiles/downloadTest.dir/HeaderWrapper.cpp.o	1add976aba864d12
+1	594	1662302888179754352	src/CMakeFiles/downloadTest.dir/ProgressWrapper.cpp.o	ec51ca46521125b0
+2708	2813	1661895520619676716	downloadTest	4a928f0800405ca6
+1	1522	1662309168074665878	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1522	1630	1662309168191334336	src/downloadTest	11bb9280ed74d0bb
+1	1485	1662309204771894800	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1485	1592	1662309204885229864	src/downloadTest	11bb9280ed74d0bb
+1	1480	1662309243259148103	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1480	1593	1662309243379149928	src/downloadTest	11bb9280ed74d0bb
+0	1469	1662309287139813430	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1469	1584	1662309287259815245	src/downloadTest	11bb9280ed74d0bb
+1	1529	1662309355104170541	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1529	1649	1662309355230839108	src/downloadTest	11bb9280ed74d0bb
+1	963	1662310473791460927	src/CMakeFiles/downloadTest.dir/CurlRequest.cpp.o	4373ad77c6f37023
+1	1537	1662310474364804706	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1537	1648	1662310474481473498	src/downloadTest	11bb9280ed74d0bb
+0	1575	1662310601607077207	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1575	1690	1662310601730412702	src/downloadTest	11bb9280ed74d0bb
+0	1481	1662310611967258573	src/CMakeFiles/downloadTest.dir/main.cpp.o	8c43c2a220284e3f
+1481	1590	1662310612083927279	src/downloadTest	11bb9280ed74d0bb
