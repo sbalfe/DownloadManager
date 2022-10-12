@@ -1,5 +1,0 @@
-/home/shriller44/dev/c++/projects/downloadManager/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/shriller44/dev/c++/projects/downloadManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/shriller44/dev/c++/projects/downloadManager/cmake-build-debug/src/CMakeFiles/downloadTest.dir
-/home/shriller44/dev/c++/projects/downloadManager/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/home/shriller44/dev/c++/projects/downloadManager/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
